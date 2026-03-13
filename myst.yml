@@ -68,6 +68,7 @@ project:
         - file: classwork/cw-best-fit.ipynb
         - file: classwork/cw-ethics.ipynb
         - file: classwork/ml-feature-importance.ipynb
+        - file: classwork/ml-classification/ml-classification.ipynb
     - title: Homework
       children:
         - file: homework/processing.ipynb
