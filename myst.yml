@@ -86,6 +86,8 @@ project:
           - file: project/discovery_dataset_sources.md
           - file: project/dataset_example.md
         - file: project/data-organization.md
+        - file: project/final_report.md
+        - file: project/final_presentation.md
         - file: project/discovery_challenges.md
         - file: project/scraping.md
         - file: project/project_examples.md
