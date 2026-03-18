@@ -50,6 +50,7 @@ project:
         - file: lectures/language-models.ipynb
         - file: lectures/large-language-models.ipynb
         - file: lectures/fairness.ipynb
+        - file: lectures/distance-study/distance-study.ipynb
     - title: Classwork
       children:
         - file: classwork/python-fundamentals.ipynb
