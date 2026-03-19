@@ -51,6 +51,7 @@ project:
         - file: lectures/large-language-models.ipynb
         - file: lectures/fairness.ipynb
         - file: lectures/distance-study/distance-study.ipynb
+        - file: lectures/distance-regression/distance-regression.ipynb
     - title: Classwork
       children:
         - file: classwork/python-fundamentals.ipynb
