@@ -6,13 +6,17 @@ Your Final Presentation will be a verbal presentation in front of the class. It 
 2) Story of the Experience  
 
 ## Data Science Results
+
 There are two goals of this part of the presentation:  
+
 * To inform the audience of your research and results  
 * To demonstrate your understanding of the data  
 
 You will have very few slides with words on them. You will focus on the **RESULTS** of your research. You will present any necessary background or context that will allow the audience to understand the results.  
 
-Explain to the audience what each plot is saying. Explain the significance or lack thereof. Explain how a plot might have lead you to do a different type of investigation.  
+Explain to the audience what each plot is saying. Explain the significance or lack thereof. Explain how a plot might have lead you to do a different type of investigation.
+
+Be sure to explain your research questions and link your results back to these during the presentation.
 
 Do NOT talk about:  
 
