@@ -5,6 +5,9 @@ short_title: Bar Charts
 
 # Bar Charts
 
+
+
+
 Bar charts are good when:  
 * The x-axis is categorical and does not have a natural order (e.g., Country names).  
 * There are very few points to show (e.g., 4 or less)  
